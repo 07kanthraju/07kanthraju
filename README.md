@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Kanth Raju
 
 I’m passionate about **DevSecOps**, **Embedded Systems**, and **Blockchain Technology**.  
-Currently pursuing **MCA**, and learning backend, cloud, and emerging tech.  
+Currently pursuing **Master of Computer Applications (MCA)** and building strong foundations in backend, cloud, and emerging technologies.
 
 ---
 
-## 🌱 What I'm Learning
+## 📚 Currently Exploring
 - Spring Boot, Spring Data JPA  
 - Docker, Kubernetes, CI/CD  
 - AWS, Linux, Git, Jenkins  
@@ -27,11 +27,13 @@ Currently pursuing **MCA**, and learning backend, cloud, and emerging tech.
 - **Project 3:** Description here  
 - **Project 4:** Description here  
 
+*(Upcoming projects include CI/CD automation, cloud infrastructure, and blockchain-based applications.)*
+
 ---
 
 ## 📫 How to Reach Me
-- Email: [07kanthraju@gmail.com](mailto:07kanthraju@gmail.com)  
-- LinkedIn: [linkedin.com/in/kanthraju](https://www.linkedin.com/in/kanthraju/)  
+- 📧 Email: [07kanthraju@gmail.com](mailto:07kanthraju@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/kanthraju](https://www.linkedin.com/in/kanthraju/)  
 
 ---
 
