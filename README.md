@@ -20,7 +20,7 @@ Currently pursuing **MCA**, and continuously exploring **backend, cloud, and eme
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -37,36 +37,31 @@ Currently pursuing **MCA**, and continuously exploring **backend, cloud, and eme
 
 ## 🚀 My Projects
 
-### 1️⃣ TrustConnect
-A full-stack **digital trust infrastructure platform** enabling secure transactions for semi-formal and unorganized sectors.  
-**Tech Stack:** Spring Boot, React, Smart Contracts, AWS, Docker  
-[View Project](https://github.com/07kanthraj/TrustConnect)
+### 1️⃣ Project 1
+Description of Project 1 here.  
+**Tech Stack:**  
 
-### 2️⃣ AI Marketplace
-An **OpenSea-style platform** for AI models, agents, datasets, and utilities.  
-**Tech Stack:** React, Node.js, Blockchain, MongoDB  
-[View Project](https://github.com/07kanthraj/AI-Marketplace)
+### 2️⃣ Project 2
+Description of Project 2 here.  
+**Tech Stack:**  
 
-### 3️⃣ RL Bug Hunter
-A **Reinforcement Learning agent** for autonomous vulnerability scanning and exploitation.  
-**Tech Stack:** Python, OpenAI Gym, Burp Suite, OWASP ZAP  
-[View Project](https://github.com/07kanthraj/RL-BugHunter)
+### 3️⃣ Project 3
+Description of Project 3 here.  
+**Tech Stack:**  
 
-### 4️⃣ Embedded Blockchain Prototype
-A proof-of-concept integrating **blockchain verification in embedded IoT devices**.  
-**Tech Stack:** Embedded C, Solidity, Ethereum Testnet  
-[View Project](https://github.com/07kanthraj/Embedded-Blockchain)
+### 4️⃣ Project 4
+Description of Project 4 here.  
+**Tech Stack:**  
 
 ---
 
 ## 📊 Skill Progress
+*Using badges for reliable progress visualization*
 
-**Backend Development:**  
-![Spring Boot](https://progress-bar.dev/85/?title=SpringBoot)  
-**DevOps & Cloud:**  
-![Docker](https://progress-bar.dev/80/?title=Docker) ![Kubernetes](https://progress-bar.dev/70/?title=K8s)  
-**Blockchain & Security:**  
-![Solidity](https://progress-bar.dev/65/?title=Solidity)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-85%-green)
+![Docker](https://img.shields.io/badge/Docker-80%-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-70%-blueviolet)
+![Solidity](https://img.shields.io/badge/Solidity-65%-grey)
 
 ---
 
@@ -83,6 +78,4 @@ I love **cutting-edge tech**, building **secure systems**, and experimenting wit
 
 ## 📈 GitHub Stats
 ![Kanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=07kanthraj&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=07kanthraj&layout=compact&theme=radical)  
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=07kanthraj.readme)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=07kanthraj&layout=compact&theme=radical)
