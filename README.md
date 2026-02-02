@@ -1,41 +1,77 @@
-# 👋 Hi, I’m Kanth Raju
+# Kanth Raj
 
-I’m passionate about **DevSecOps**, **Embedded Systems**, and **Blockchain Technology**.  
-Currently pursuing **Master of Computer Applications (MCA)** and building strong foundations in backend, cloud, and emerging technologies.
+DevOps & Cloud Engineering | System Builder  
+Bengaluru, India
 
----
-
-## 📚 Currently Exploring
-- Spring Boot, Spring Data JPA  
-- Docker, Kubernetes, CI/CD  
-- AWS, Linux, Git, Jenkins  
-- Smart Contracts, Solidity, Blockchain Protocols  
+I design and operate reliable backend systems, cloud infrastructure, and CI/CD pipelines.  
+My focus is on building production-ready platforms that reduce operational friction and scale cleanly.
 
 ---
 
-## 💻 Skills
-- **Programming:** Java, Python, Solidity  
-- **Frameworks:** Spring Boot  
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, Jenkins, Git  
-- **Databases:** MySQL, MongoDB  
+## Current Project
+
+### 📄 DocPort — Doctor-First Insurance Integration Platform  
+🔗 https://github.com/07kanthraju/DocPort
+
+**DocPort** is a unified platform that simplifies OPD integration between doctors and multiple insurance providers.
+
+Doctors manage their profile, availability, and appointments through a single system, while insurance providers integrate once via standardized APIs. The platform reduces redundant onboarding, improves operational efficiency, and keeps control with the practitioner.
+
+**Focus areas**
+- Backend service design
+- API-based insurer integrations
+- Secure data handling
+- Cloud-native deployment
+- CI/CD automation
+
+This is my primary active project.
 
 ---
 
-## 🚀 Projects
-- **Project 1:** Description here  
-- **Project 2:** Description here  
-- **Project 3:** Description here  
-- **Project 4:** Description here  
+## Other Work
 
-*(Upcoming projects include CI/CD automation, cloud infrastructure, and blockchain-based applications.)*
+**CI/CD Automation Pipeline**  
+End-to-end automation using Jenkins and Docker with AWS infrastructure provisioned via Terraform. Designed for repeatable, low-friction deployments.
 
----
+**Auto Scaling & Monitoring on AWS**  
+Implemented EC2 Auto Scaling driven by CloudWatch metrics to improve availability and cost efficiency.
 
-## 📫 How to Reach Me
-- 📧 Email: [07kanthraju@gmail.com](mailto:07kanthraju@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/kanthraju](https://www.linkedin.com/in/kanthraju/)  
+**Trust Infrastructure Experiments**  
+Exploratory work on contract workflows, reputation scoring, and trust layers for semi-formal and B2B ecosystems.
 
 ---
 
-### ⚡ Fun Fact
-I love exploring **cutting-edge tech**, building **secure systems**, and experimenting with **IoT + Blockchain**!
+## Technical Skills
+
+**Languages**  
+C, Java, Python, JavaScript
+
+**Backend & Web**  
+Node.js, Express, React, AngularJS
+
+**Cloud Platforms**  
+AWS (EC2, S3, Lambda, CloudWatch)
+
+**DevOps & Automation**  
+Docker, Jenkins, Terraform, Ansible, Git
+
+**Core Concepts**  
+CI/CD, Infrastructure as Code, Microservices, Linux Systems
+
+---
+
+## Approach
+
+I value systems that are:
+- Automated by default  
+- Observable and maintainable  
+- Designed to fail safely  
+
+The goal is infrastructure teams can trust and operate with confidence.
+
+---
+
+## Connect
+
+GitHub: https://github.com/07kanthraju  
+LinkedIn: https://www.linkedin.com/in/kanth-raju-v-7a3121295/
