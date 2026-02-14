@@ -17,59 +17,13 @@ My focus is on building production-ready platforms that reduce operational frict
 
 Doctors manage their profile, availability, and appointments through a single system, while insurance providers integrate once via standardized APIs. The platform reduces redundant onboarding, improves operational efficiency, and keeps control with the practitioner.
 
-**Focus areas**
-- Backend service design
-- API-based insurer integrations
-- Secure data handling
-- Cloud-native deployment
-- CI/CD automation
+### Designa is a design-driven code synthesis engine.
+🔗 https://github.com/07kanthraju/Designa.git
 
-This is my primary active project.
+It compiles structured low-level design files into validated source code using AI with strict scope control, deterministic validation, and human review.
+Design becomes the source of truth.
+Generated code becomes a build artifact.
 
----
-
-## Other Work
-
-**CI/CD Automation Pipeline**  
-End-to-end automation using Jenkins and Docker with AWS infrastructure provisioned via Terraform. Designed for repeatable, low-friction deployments.
-
-**Auto Scaling & Monitoring on AWS**  
-Implemented EC2 Auto Scaling driven by CloudWatch metrics to improve availability and cost efficiency.
-
-**Trust Infrastructure Experiments**  
-Exploratory work on contract workflows, reputation scoring, and trust layers for semi-formal and B2B ecosystems.
-
----
-
-## Technical Skills
-
-**Languages**  
-C, Java, Python, JavaScript
-
-**Backend & Web**  
-Node.js, Express, React, AngularJS
-
-**Cloud Platforms**  
-AWS (EC2, S3, Lambda, CloudWatch)
-
-**DevOps & Automation**  
-Docker, Jenkins, Terraform, Ansible, Git
-
-**Core Concepts**  
-CI/CD, Infrastructure as Code, Microservices, Linux Systems
-
----
-
-## Approach
-
-I value systems that are:
-- Automated by default  
-- Observable and maintainable  
-- Designed to fail safely  
-
-The goal is infrastructure teams can trust and operate with confidence.
-
----
 
 ## Connect
 
