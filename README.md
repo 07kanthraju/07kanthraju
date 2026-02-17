@@ -9,7 +9,9 @@
 ---
 
 
-**Product Engineer | DevOps & Cloud | System Design** Bengaluru, India
+**Product Engineer | DevOps & Cloud | System Design** 
+
+**Bengaluru, India**
 
 I build backend systems and cloud infrastructure designed for reliability, clarity, and scale.  
 My work focuses on reducing operational friction, strengthening deployment pipelines, and designing platforms that behave predictably under load.
