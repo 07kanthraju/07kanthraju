@@ -104,7 +104,7 @@ Generated code is not magic. It is a controlled artifact of structured intent.
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=07kanthraju&show_icons=true&theme=tokyonight&hide_border=false" alt="Kanth Raj's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=07kanthraju&show_icons=true&theme=tokyonight&hide_border=false" alt="Kanth Raj Stats" />
 </p>
 
 <p align="center">
