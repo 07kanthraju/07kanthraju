@@ -1,4 +1,3 @@
-<!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Kanth%20Raj&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -11,8 +10,7 @@
 
 # Kanth Raj
 
-**Product Engineer | DevOps & Cloud | System Design**  
-Bengaluru, India
+**Product Engineer | DevOps & Cloud | System Design** Bengaluru, India
 
 I build backend systems and cloud infrastructure designed for reliability, clarity, and scale.  
 My work focuses on reducing operational friction, strengthening deployment pipelines, and designing platforms that behave predictably under load.
@@ -35,7 +33,7 @@ I care about architecture. I care about clean abstractions. I care about systems
 
 ### 📄 DocPort — Doctor-First Insurance Integration Platform
 
-🔗 https://github.com/07kanthraju/DocPort
+🔗 [github.com/07kanthraju/DocPort](https://github.com/07kanthraju/DocPort)
 
 A unified OPD integration platform connecting doctors and multiple insurance providers through standardized APIs.
 
@@ -50,7 +48,7 @@ This project explores platform design in fragmented ecosystems.
 
 ### ⚙ Designa — Design-Driven Code Synthesis Engine
 
-🔗 https://github.com/07kanthraju/Designa
+🔗 [github.com/07kanthraju/Designa](https://github.com/07kanthraju/Designa)
 
 A structured design-to-code engine that compiles low-level design specifications into validated source code using AI.
 
@@ -104,15 +102,15 @@ Generated code is not magic. It is a controlled artifact of structured intent.
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=07kanthraju&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=07kanthraju&show_icons=true&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=07kanthraju&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=07kanthraju&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07kanthraju&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07kanthraju&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -120,8 +118,7 @@ Generated code is not magic. It is a controlled artifact of structured intent.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07kanthraju&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=07kanthraju&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
