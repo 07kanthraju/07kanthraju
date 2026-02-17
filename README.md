@@ -8,14 +8,13 @@
 
 ---
 
-# Kanth Raj
 
 **Product Engineer | DevOps & Cloud | System Design** Bengaluru, India
 
 I build backend systems and cloud infrastructure designed for reliability, clarity, and scale.  
 My work focuses on reducing operational friction, strengthening deployment pipelines, and designing platforms that behave predictably under load.
 
-I care about architecture. I care about clean abstractions. I care about systems that don’t wake you up at 2 AM.
+
 
 ---
 
@@ -104,12 +103,13 @@ Generated code is not magic. It is a controlled artifact of structured intent.
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-gauravghai.vercel.app/api?username=07kanthraju&show_icons=true&theme=tokyonight&hide_border=false" alt="Kanth Raj's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=07kanthraju&show_icons=true&theme=tokyonight&hide_border=false" alt="Kanth Raj Stats" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=07kanthraju&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
+
 
 ---
 
