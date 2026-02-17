@@ -112,7 +112,7 @@ Generated code is not magic. It is a controlled artifact of structured intent.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=07kanthraju&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=07kanthraju&theme=tokyonight&no-bg=true&margin-w=15" alt="Kanth Raj Trophies" />
 </p>
 
 ---
