@@ -21,7 +21,8 @@ My focus is building production-ready platforms that reduce operational friction
 
 ## 🚀 Current Projects
 
-### 📄 DocPort — Doctor-First Insurance Integration Platform  
+### 📄 DocPort — Doctor-First Insurance Integration Platform
+
 🔗 https://github.com/07kanthraju/DocPort
 
 A unified platform that simplifies OPD integration between doctors and multiple insurance providers.
@@ -32,7 +33,8 @@ The platform removes redundant onboarding and improves operational efficiency.
 
 ---
 
-### ⚙️ Designa — Design-Driven Code Synthesis Engine  
+### ⚙️ Designa — Design-Driven Code Synthesis Engine
+
 🔗 https://github.com/07kanthraju/Designa
 
 Compiles structured low-level design files into validated source code using AI with deterministic validation and human review.
