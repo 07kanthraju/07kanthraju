@@ -1,6 +1,6 @@
-<!-- Professional Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Kanth%20Raj&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=Kanth%20Raj&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -9,75 +9,108 @@
 
 ---
 
-# Kanth Raj
-
+# Kanth Raj  
 **Product Engineer | DevOps & Cloud | System Design**  
 Bengaluru, India
 
-I design and operate reliable backend systems, cloud infrastructure, and CI/CD pipelines.  
-My focus is building production-ready platforms that reduce operational friction and scale cleanly.
+I build backend systems and cloud infrastructure designed for reliability, clarity, and scale.  
+My work focuses on reducing operational friction, strengthening deployment pipelines, and designing platforms that behave predictably under load.
+
+I care about architecture. I care about clean abstractions. I care about systems that don’t wake you up at 2 AM.
+
+---
+
+## ⚙ Engineering Philosophy
+
+- Design before code  
+- Automation over repetition  
+- Observability over guesswork  
+- Determinism over chaos  
+- Systems thinking over feature chasing  
 
 ---
 
 ## 🚀 Current Projects
 
-### 📄 DocPort — Doctor-First Insurance Integration Platform
-
+### 📄 DocPort — Doctor-First Insurance Integration Platform  
 🔗 https://github.com/07kanthraju/DocPort
 
-A unified platform that simplifies OPD integration between doctors and multiple insurance providers.
+A unified OPD integration platform connecting doctors and multiple insurance providers through standardized APIs.
 
-Doctors manage profile, availability, and appointments through one system.  
-Insurance providers integrate once via standardized APIs.  
-The platform removes redundant onboarding and improves operational efficiency.
+- Single onboarding layer for practitioners  
+- Multi-insurer integration model  
+- Operational simplification at scale  
+- Backend-driven architecture  
+
+This project explores platform design in fragmented ecosystems.
 
 ---
 
-### ⚙️ Designa — Design-Driven Code Synthesis Engine
-
+### ⚙ Designa — Design-Driven Code Synthesis Engine  
 🔗 https://github.com/07kanthraju/Designa
 
-Compiles structured low-level design files into validated source code using AI with deterministic validation and human review.
+A structured design-to-code engine that compiles low-level design specifications into validated source code using AI.
 
-Design becomes the source of truth.  
-Generated code becomes a build artifact.
+- Deterministic validation  
+- Strict scope control  
+- Human-in-the-loop review  
+- Design as the source of truth  
+
+Generated code is not magic. It is a controlled artifact of structured intent.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Stack
 
-<p align="center">
+### Backend & Application
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=flat"/>
+</p>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+### Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+</p>
 
+### Databases
+<p>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+### Cloud & DevOps
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=07kanthraju&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=07kanthraju&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07kanthraju&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=07kanthraju&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=07kanthraju&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07kanthraju&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=07kanthraju&theme=tokyo-night&hide_border=true&area=true" />
@@ -87,17 +120,17 @@ Generated code becomes a build artifact.
 
 ## 🔗 Connect
 
-<p align="center">
-  <a href="https://github.com/07kanthraju">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kanth-raju-v-7a3121295/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p>
+<a href="https://github.com/07kanthraju">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/kanth-raju-v-7a3121295/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=120&section=footer"/>
 </p>
