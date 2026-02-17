@@ -111,10 +111,6 @@ Generated code is not magic. It is a controlled artifact of structured intent.
   <img src="https://streak-stats.demolab.com?user=07kanthraju&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-gauravghai.vercel.app/api/top-langs/?username=07kanthraju&layout=donut&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
-
 ---
 
 ## 📈 Contribution Graph
