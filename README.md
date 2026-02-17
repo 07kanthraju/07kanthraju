@@ -62,6 +62,10 @@ Generated code is not magic. It is a controlled artifact of structured intent.
 
 ---
 
+
+## 🚀 Research
+- A Deterministic Control Layer for Probabilistic LLM-Based Code Generation
+
 ## 🛠 Technical Stack
 
 ### Backend & Application
