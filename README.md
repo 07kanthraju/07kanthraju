@@ -9,7 +9,8 @@
 
 ---
 
-# Kanth Raj  
+# Kanth Raj
+
 **Product Engineer | DevOps & Cloud | System Design**  
 Bengaluru, India
 
@@ -22,39 +23,41 @@ I care about architecture. I care about clean abstractions. I care about systems
 
 ## ⚙ Engineering Philosophy
 
-- Design before code  
-- Automation over repetition  
-- Observability over guesswork  
-- Determinism over chaos  
-- Systems thinking over feature chasing  
+- Design before code
+- Automation over repetition
+- Observability over guesswork
+- Determinism over chaos
+- Systems thinking over feature chasing
 
 ---
 
 ## 🚀 Current Projects
 
-### 📄 DocPort — Doctor-First Insurance Integration Platform  
+### 📄 DocPort — Doctor-First Insurance Integration Platform
+
 🔗 https://github.com/07kanthraju/DocPort
 
 A unified OPD integration platform connecting doctors and multiple insurance providers through standardized APIs.
 
-- Single onboarding layer for practitioners  
-- Multi-insurer integration model  
-- Operational simplification at scale  
-- Backend-driven architecture  
+- Single onboarding layer for practitioners
+- Multi-insurer integration model
+- Operational simplification at scale
+- Backend-driven architecture
 
 This project explores platform design in fragmented ecosystems.
 
 ---
 
-### ⚙ Designa — Design-Driven Code Synthesis Engine  
+### ⚙ Designa — Design-Driven Code Synthesis Engine
+
 🔗 https://github.com/07kanthraju/Designa
 
 A structured design-to-code engine that compiles low-level design specifications into validated source code using AI.
 
-- Deterministic validation  
-- Strict scope control  
-- Human-in-the-loop review  
-- Design as the source of truth  
+- Deterministic validation
+- Strict scope control
+- Human-in-the-loop review
+- Design as the source of truth
 
 Generated code is not magic. It is a controlled artifact of structured intent.
 
@@ -63,6 +66,7 @@ Generated code is not magic. It is a controlled artifact of structured intent.
 ## 🛠 Technical Stack
 
 ### Backend & Application
+
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
@@ -71,18 +75,21 @@ Generated code is not magic. It is a controlled artifact of structured intent.
 </p>
 
 ### Frontend
+
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
 ### Databases
+
 <p>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 
 ### Cloud & DevOps
+
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
@@ -113,7 +120,8 @@ Generated code is not magic. It is a controlled artifact of structured intent.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=07kanthraju&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07kanthraju&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
 </p>
 
 ---
