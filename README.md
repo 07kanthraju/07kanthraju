@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=07kanthraju&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=07kanthraj&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ My work focuses on reducing operational friction, strengthening deployment pipel
 
 ### 📄 DocPort — Doctor-First Insurance Integration Platform
 
-🔗 [github.com/07kanthraju/DocPort](https://github.com/07kanthraju/DocPort)
+🔗 [github.com/07kanthraj/DocPort](https://github.com/07kanthraj/DocPort)
 
 A unified OPD integration platform connecting doctors and multiple insurance providers through standardized APIs.
 
@@ -49,7 +49,7 @@ This project explores platform design in fragmented ecosystems.
 
 ### ⚙ Designa — Design-Driven Code Synthesis Engine
 
-🔗 [github.com/07kanthraju/Designa](https://github.com/07kanthraju/Designa)
+🔗 [github.com/07kanthraj/Designa](https://github.com/07kanthraj/Designa)
 
 A structured design-to-code engine that compiles low-level design specifications into validated source code using AI.
 
@@ -109,11 +109,11 @@ Generated code is not magic. It is a controlled artifact of structured intent.
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=07kanthraju&show_icons=true&theme=tokyonight&hide_border=false" alt="Kanth Raj Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=07kanthraj&show_icons=true&theme=tokyonight&hide_border=false" alt="Kanth Raj Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=07kanthraju&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=07kanthraj&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 
@@ -122,7 +122,7 @@ Generated code is not magic. It is a controlled artifact of structured intent.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=07kanthraju&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=07kanthraj&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
@@ -130,7 +130,7 @@ Generated code is not magic. It is a controlled artifact of structured intent.
 ## 🔗 Connect
 
 <p>
-<a href="https://github.com/07kanthraju">
+<a href="https://github.com/07kanthraj">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
 </a>
 <a href="https://www.linkedin.com/in/kanth-raju-v-7a3121295/">
